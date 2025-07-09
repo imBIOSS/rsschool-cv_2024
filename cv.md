@@ -4,7 +4,6 @@
 - **Location:** Russia, Saint Petersburg
 - **Email:** \_BIOSS\_@mail.ru
 - **GitHub:** [GitHub Profile](https://github.com/imBIOSS)
-- **Phone:** +79119684209
 ## About Me
 I am a dedicated System Administrator with a passion for technology and problem-solving.
 With a solid background in managing and maintaining IT infrastructure,
